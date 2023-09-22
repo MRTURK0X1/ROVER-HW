@@ -13,3 +13,5 @@ TRIG PIN : A10
 ECHO PIN : B15
 MOTOR SÜRÜCÜ IN1 : C0
 MOTOR SÜRÜCÜ IN2 : C1
+
+projede ek olarak hiçbir değişiklik yapılmamıştır
