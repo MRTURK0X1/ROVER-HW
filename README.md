@@ -6,6 +6,7 @@ projeyle doğrudan alakalı kodlar 20 eylülde yüklenmiştir.
 sonradan projenin test edilme olasılığına karşı 22 eylülde ek olarak hex dosyasını yükledim.
 -ROVER_PRJ.hex
 
+STM32F072 NUCLEO
 SARI LED : A0 
 KIRMIZI LED : A1
 YEŞİL LED : A4
